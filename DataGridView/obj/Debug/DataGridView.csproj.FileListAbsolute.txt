@@ -1,0 +1,12 @@
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.SuggestedBindingRedirects.cache
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\RaV21\source\repos\DataGridView\DataGridView\obj\Debug\DataGridView.Form2.resources
